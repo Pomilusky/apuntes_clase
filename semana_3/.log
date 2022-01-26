@@ -1,0 +1,54 @@
+2022-01-26 22:49:19,174 [67035] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:49:19,174 [67035] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:49:19,174 [67035] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:49:19,175 [67035] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:49:19,175 [67035] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:49:19,175 [67035] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-01-26 22:49:41,012 [67064] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:49:41,012 [67064] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:49:41,012 [67064] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:49:41,013 [67064] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:49:41,014 [67064] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:49:41,014 [67064] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-01-26 22:49:41,645 [67064] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:49:41,645 [67064] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:49:41,645 [67064] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:49:41,648 [67064] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:49:41,649 [67064] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:49:41,649 [67064] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-01-26 22:50:11,561 [67064] DEBUG    urllib3.connectionpool:971: [JupyterRequire] Starting new HTTPS connection (1): api.jikan.moe:443
+2022-01-26 22:50:13,093 [67064] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://api.jikan.moe:443 "GET /v3/search/anime?q=koukaku%20kidotai HTTP/1.1" 200 None
+2022-01-26 22:50:15,882 [67064] DEBUG    urllib3.connectionpool:971: [JupyterRequire] Starting new HTTPS connection (1): api.jikan.moe:443
+2022-01-26 22:50:16,093 [67064] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://api.jikan.moe:443 "GET /v3/search/anime?q=koukaku%20kidotai HTTP/1.1" 200 None
+2022-01-26 22:50:17,955 [67064] DEBUG    urllib3.connectionpool:971: [JupyterRequire] Starting new HTTPS connection (1): api.jikan.moe:443
+2022-01-26 22:50:18,217 [67064] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://api.jikan.moe:443 "GET /v3/search/anime?q=koukaku%20kidotai HTTP/1.1" 200 None
+2022-01-26 22:52:27,054 [67117] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:52:27,055 [67117] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:52:27,055 [67117] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:52:27,056 [67117] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:52:27,056 [67117] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:52:27,056 [67117] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-01-26 22:52:27,572 [67117] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:52:27,572 [67117] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:52:27,572 [67117] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:52:27,576 [67117] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:52:27,577 [67117] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:52:27,577 [67117] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-01-26 22:56:36,360 [67189] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:56:36,361 [67189] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:56:36,361 [67189] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:56:36,363 [67189] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:56:36,363 [67189] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:56:36,363 [67189] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-01-26 22:57:55,122 [67211] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:57:55,122 [67211] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:57:55,122 [67211] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:57:55,123 [67211] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:57:55,123 [67211] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:57:55,124 [67211] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-01-26 22:57:55,677 [67211] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-01-26 22:57:55,677 [67211] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-01-26 22:57:55,677 [67211] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-01-26 22:57:55,681 [67211] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-01-26 22:57:55,681 [67211] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-01-26 22:57:55,682 [67211] DEBUG    root:97: [JupyterRequire] Registering comm targets.
