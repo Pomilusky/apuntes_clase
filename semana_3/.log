@@ -242,3 +242,5 @@
 2022-01-27 12:21:21,787 [5018] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://api.wheretheiss.at:443 "GET /v1/satellites/25544 HTTP/1.1" 200 314
 2022-01-27 12:21:22,299 [5018] DEBUG    urllib3.connectionpool:971: [JupyterRequire] Starting new HTTPS connection (1): api.wheretheiss.at:443
 2022-01-27 12:21:22,930 [5018] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://api.wheretheiss.at:443 "GET /v1/satellites/25544 HTTP/1.1" 200 313
+2022-01-27 12:47:00,092 [5018] DEBUG    urllib3.connectionpool:971: [JupyterRequire] Starting new HTTPS connection (1): api.github.com:443
+2022-01-27 12:47:00,267 [5018] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://api.github.com:443 "GET /events HTTP/1.1" 200 29202
