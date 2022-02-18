@@ -4,6 +4,7 @@
 .vscode
 bienvenidas.key
 
+catboost_info/
 /.idea
 *.idea
 *.xml
