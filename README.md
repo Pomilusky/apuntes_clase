@@ -1,6 +1,9 @@
 # Apuntes de clase 
 ### Apuntes de clase DataMad0122
 
+![process](https://github.com/YonatanRA/data_textbook/blob/master/images/process.jpg)
+
+
 <img align="right" width="100" height="100" src="https://github.com/Ironhack-Data-Madrid-Agosto-2021/classroom-materials/blob/main/images/logo.png">
 
 En este repositorio encontrarás cada día los apuntes de los notebooks que se han realizado durante la clase, así como otros documentos interesantes que te pueden servir para reforzar tu aprendizaje o que te salvarán la vida si los  tienes a mano. 🙃     
